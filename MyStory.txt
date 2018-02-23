@@ -1,1 +1,4 @@
 Hello, My name is Lihle and I am new to coding!
+I am currently learning the git commands
+It is nerve wrecking but also very exciting to learn
+
